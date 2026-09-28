@@ -1,1 +1,0 @@
-  -L"D:/2026-B/COMPUTACION GRAFICA/prueba/external/glfw/lib-mingw-w64"  libglad.a -lglfw3 -lopengl32 -lgdi32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
