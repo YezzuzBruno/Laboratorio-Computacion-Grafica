@@ -1,0 +1,4 @@
+D:/2026-B/COMPUTACION GRAFICA/prueba/build/CMakeFiles/glad.dir
+D:/2026-B/COMPUTACION GRAFICA/prueba/build/CMakeFiles/mi_app.dir
+D:/2026-B/COMPUTACION GRAFICA/prueba/build/CMakeFiles/edit_cache.dir
+D:/2026-B/COMPUTACION GRAFICA/prueba/build/CMakeFiles/rebuild_cache.dir
