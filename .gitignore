@@ -1,0 +1,29 @@
+# Carpetas de compilación
+build/
+out/
+cmake-build-*/
+
+# Archivos generados por CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Archivos binarios y ejecutables
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+
+# Archivos de Visual Studio Code (opcional, pero recomendado)
+.vscode/*
+!.vscode/settings.json   # Excepto este, que sí quieres compartir para forzar el compilador
+!.vscode/launch.json
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
